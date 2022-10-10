@@ -1,0 +1,8 @@
+name: EntityIndicator
+version: '${project.version}'
+main: github.io.sweetenpotato.entityindicator.EntityIndicator
+api-version: 1.19
+commands:
+  get:
+    aliases: [entity, g]
+    description: A simple description.
